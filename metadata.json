@@ -1,0 +1,6 @@
+{
+  "name": "Lucent Bills",
+  "description": "Bills made clear. Payments made accountable. A transparent billing and external payment verification platform for contractors and clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
